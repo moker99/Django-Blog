@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@wangeditor/editor": "^5.1.23",
+    "bootstrap": "^5.3.3",
+    "highlight.js": "^11.10.0",
+    "jquery": "^3.7.1",
+    "popper.js": "^1.16.1"
+  }
+}
